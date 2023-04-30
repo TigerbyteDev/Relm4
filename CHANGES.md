@@ -5,6 +5,7 @@
 ### Fixed
 
 + macros: Improve error messages for non-identifier parameter patterns
++ git: Ignoring config from IDEA-based IDEs
 
 ## 0.6.0-beta.1 - 2023-4-19
 
